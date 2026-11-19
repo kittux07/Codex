@@ -1,0 +1,11 @@
+{
+  "name": "Hx5x5x5x",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "@openai/codex": "latest",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
